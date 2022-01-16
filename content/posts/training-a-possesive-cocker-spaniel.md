@@ -1,7 +1,7 @@
 ---
 title: "Training a Possesive Cocker Spaniel Part 1"
 date: 2022-01-16T17:55:50Z
-draft: erue
+draft: true
 ---
 
 Houston's a great dog but not the most willing to share when he's got something in his mouth. This will often be a tennis ball or something similar, even toys in some cases.
