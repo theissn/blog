@@ -1,8 +1,0 @@
-baseURL = 'https://www.theisnielsen.com/'
-languageCode = 'en-us'
-title = 'Theis Nielsen'
-
-# Theme Config
-theme = 'PaperMod'
-paginate = 10
-

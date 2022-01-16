@@ -1,0 +1,24 @@
+baseURL: 'https://www.theisnielsen.com/'
+
+languageCode: en-us
+title: Theis Nielsen
+
+theme: PaperMod
+paginate: 10
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    homeInfoParams:
+        Title: Yo yo 👋
+        Content: Welcome to my blog, where I'll post about everything from tech to everyday life stuff
+
+    socialIcons: # optional
+        - name: "github"
+          url: "https://github.com/theissn"
+        - name: "twitter"
+          url: "https://twitter.com/theis_nielsen"
