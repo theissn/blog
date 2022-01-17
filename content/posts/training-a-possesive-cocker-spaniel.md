@@ -14,4 +14,9 @@ To start off with lets have a look at what we're working with:
 
 ![Houston](/houston-profile.jpg)
 
+# Goals
 
+- Make him drop any item on command
+- Make him always come back no matter what he's found
+
+# Training
