@@ -77,6 +77,6 @@ Which should give you a nice popup with autocomplete when writing out above code
 
 # 🎉
 
-You have now (hopefully) succesfully managed to setup neovim with LSP and autocomplete. If you happened to run into any issues, please reach out to me on twitter [@theis_nielsen](https://twitter.com/theis_nielsen)
+You have now (hopefully) successfully managed to setup neovim with LSP and autocomplete. If you happened to run into any issues, please reach out to me on twitter [@theis_nielsen](https://twitter.com/theis_nielsen)
 
 
